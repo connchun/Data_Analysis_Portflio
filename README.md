@@ -5,9 +5,10 @@
 <h2>Projects</h2>
 
 <a href="https://github.com/connchun/Data_Analysis_Portflio/blob/main/AC%20Price%20Prediction.ipynb">AC Price Prediction</a>
-* Description: 
-* Source: 
-* Skills: 
+* <b>Description:</b> In this project, I wanted to explore the relationship between various features of air conditioners and their pricing. By understanding how different attributes affect the cost, we can gain insights into pricing strategies and feature valuation. I used multiple linear regression and random forest algorithms to analyze the dataset. 
+* <b>Skills/Tools:</b> Python, Juypter Notebook, Pandas, Matplotlib, Seaborn
+* <b>Data source:</b> <a href="https://www.kaggle.com/datasets/ahmedgaitani/air-conditioner-prices-dataset">link</a>
+
 
 <a href="https://github.com/connchun/Data_Analysis_Portflio/blob/main/Amazon_Prime_Data_Analysis.ipynb">Amazon Prime Data Analysis</a>
 * Description: 
