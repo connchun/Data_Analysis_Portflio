@@ -1,7 +1,5 @@
 <h1>Data Analysis Portfolio</h1>  
 
-<h2>About Me</h2>
-
 <h2>Projects</h2>
 
 <a href="https://github.com/connchun/Data_Analysis_Portflio/blob/main/AC%20Price%20Prediction.ipynb">AC Price Prediction</a>
